@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/kouyurin/reportapp/issues"
   },
-  "homepage": "https://github.com/kouyurin/reportapp#readme"
+  "homepage": "https://github.com/kouyurin/reportapp#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.3.2"
+  }
 }
